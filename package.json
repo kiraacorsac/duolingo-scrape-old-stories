@@ -1,0 +1,14 @@
+{
+  "name": "duolingo-scrape-old-stories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.3.2"
+  }
+}
